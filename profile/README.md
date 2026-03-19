@@ -29,7 +29,7 @@ En este repositorio comparto lo que voy aprendiendo durante el `Bootcamp Full St
 ### 🔹 Actividad visual por repositorio
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bootcamp-Full-Stack-Dev&repo=bootcamp-database-sqlserver&theme=tokyonight&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bootcamp-Full-Stack-Dev&repo=bootcamp-database-sqlserver&theme=tokyonight&cache_seconds=1&ts=<?=time()?>" />
   <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bootcamp-Full-Stack-Dev&repo=bootcamp-backend-dotnet&theme=tokyonight" />
   <!--
